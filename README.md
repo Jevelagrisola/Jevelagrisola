@@ -1,7 +1,8 @@
 # About Me
 - 👋 Hi, I’m @Jevelagrisola
 - I'm an aspiring game developer
-- Currently Improving my skills in coding/scripting for future projects
+- Actively Improving my skills in coding/scripting for future projects
+
 
 # Current Gmae Engine Being Used
 - GODOT
