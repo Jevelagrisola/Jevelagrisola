@@ -5,7 +5,7 @@
 - Currently on part of a game development project
 
 
-# Current Gmae Engine Being Used
+# Current Game Engine Being Used
 - GODOT
 
 # Current Softwares For Assets and Development being used
