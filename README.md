@@ -6,14 +6,11 @@
 
 
 # Current Game Engine Being Used
-- GODOT
+- UNITY
 
 # Current Softwares For Assets and Development being used
-- Effekseer
 - Medibang Pro
 - Visual Studio Code
-- Blender
-- Laigter
 - Aseprite
 
 # Here are my Socials
