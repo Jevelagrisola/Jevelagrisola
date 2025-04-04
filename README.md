@@ -1,8 +1,9 @@
 # About Me
-- 👋 Hi, I’m @Jevelagrisola
+- 👋 Hi, I’m John Emmanuel Lagrisola
 - I'm an aspiring game developer
 - Actively Improving my skills in coding/scripting for future projects
 - Currently on part of a game development project
+- Working on a website as well
 
 
 # Current Game Engine Being Used
